@@ -34,7 +34,7 @@ The purpose of this project is to produce a machine learning app to predict the 
 ![image](statics/model_selection_from_score.png)
 
 2. Model is trained with max_depth = 7 with accuracy of 89.88%
-![image](statics/result_screenhot.png)
+![image](statics/result_screenhot.PNG)
 
 3. A simple app is built for end-user testing
 ![image](statics/app_screenshot.png)
