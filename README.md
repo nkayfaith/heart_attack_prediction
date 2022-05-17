@@ -31,13 +31,13 @@ The purpose of this project is to produce a machine learning app to predict the 
 
 ## Discussion, Analysis and Result
 1. Machine Learning model selected to train the dataset for this model is RandomForestClassifier as it scores the highest in term of accuracy.
-![image](static/model_selection_from_score.png)
+![image](statics/model_selection_from_score.png)
 
 2. Model is trained with max_depth = 7 with accuracy of 89.88%
-![image](static/result_screenhot.png)
+![image](statics/result_screenhot.png)
 
 3. A simple app is built for end-user testing
-![image](static/app_screenshot.png)
+![image](statics/app_screenshot.png)
 5. 
 
 
