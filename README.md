@@ -18,10 +18,6 @@ The purpose of this project is to produce a machine learning app to predict the 
 * Pandas, Numpy, Sklearn
 * Streamlit
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
-
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
@@ -33,8 +29,10 @@ The purpose of this project is to produce a machine learning app to predict the 
 1. Machine Learning model selected to train the dataset for this model is RandomForestClassifier as it scores the highest in term of accuracy.
 ![image](statics/model_selection_from_score.png)
 
-2. Model is trained with max_depth = 7 with accuracy of 89.88%
+
+2. Model is trained with max_depth = 7 with accuracy of 86.88%
 ![image](statics/result_screenhot.PNG)
+
 
 3. A simple app is built for end-user testing
 ![image](statics/app_screenshot.png)
